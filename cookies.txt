@@ -1,7 +1,0 @@
-# HTTrack Website Copier Cookie File
-# This file format is compatible with Netscape cookies
-www.hitpaw.net	TRUE	/	FALSE	1999999999	__cflb	02DiuHqxhimL9EjJ3fJKQuETwCpBZgZwep9sAPayrjWh2
-www.hitpaw.net	TRUE	/	FALSE	1999999999	SameSite	Lax
-images.hitpaw.com	TRUE	/	FALSE	1999999999	__cflb	02DiuHqxhimL9EjJ3fJKQuETwCpBZgZwfA5zDmnVk2RvC
-images.hitpaw.com	TRUE	/	FALSE	1999999999	SameSite	Lax
-
